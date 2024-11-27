@@ -1,0 +1,1128 @@
+{
+    "data": {
+        "studyPlanV2Detail": {
+            "slug": "graph-theory",
+            "name": "Graph Theory",
+            "highlight": "Essential Graph Problems",
+            "staticCoverPicture": "https://assets.leetcode.com/static_assets/others/Graph_Theory_static_cover_picture.png",
+            "colorPalette": "yellow",
+            "threeDimensionUrl": "https://prod.spline.design/HI2Ia7kl0zD8baCC/scene.splinecode",
+            "description": "8 essential graph topics 45 high-quality graph problems",
+            "premiumOnly": false,
+            "needShowTags": false,
+            "awardDescription": "Complete the study plan to win the badge!",
+            "defaultLanguage": null,
+            "award": {
+                "name": "Graph Theory",
+                "config": {
+                    "icon": "https://assets.leetcode.com/static_assets/others/Graph_Theory.png",
+                    "iconGif": "https://assets.leetcode.com/static_assets/others/Graph_Theory.gif",
+                    "iconGifBackground": "https://assets.leetcode.com/static_assets/others/badge-background.png"
+                }
+            },
+            "relatedStudyPlans": [
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/leetcode-75/cover",
+                    "highlight": "Ace Coding Interview with 75 Qs",
+                    "name": "LeetCode 75",
+                    "slug": "leetcode-75",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/top-100-liked/cover",
+                    "highlight": "100 Best Rated Problems",
+                    "name": "Top 100 Liked",
+                    "slug": "top-100-liked",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/premium-algo-100/cover",
+                    "highlight": "LeetCode Staff Pick",
+                    "name": "Premium Algo 100",
+                    "slug": "premium-algo-100",
+                    "premiumOnly": true
+                }
+            ],
+            "planSubGroups": [
+                {
+                    "slug": "graph-theory-105-bmag",
+                    "name": "Standard Traversal",
+                    "premiumOnly": false,
+                    "questionNum": 8,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-provinces",
+                            "title": "Number of Provinces",
+                            "questionFrontendId": "547",
+                            "paidOnly": false,
+                            "id": "547",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-eventual-safe-states",
+                            "title": "Find Eventual Safe States",
+                            "questionFrontendId": "802",
+                            "paidOnly": false,
+                            "id": "820",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "keys-and-rooms",
+                            "title": "Keys and Rooms",
+                            "questionFrontendId": "841",
+                            "paidOnly": false,
+                            "id": "871",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "shortest-path-with-alternating-colors",
+                            "title": "Shortest Path with Alternating Colors",
+                            "questionFrontendId": "1129",
+                            "paidOnly": false,
+                            "id": "1229",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "time-needed-to-inform-all-employees",
+                            "title": "Time Needed to Inform All Employees",
+                            "questionFrontendId": "1376",
+                            "paidOnly": false,
+                            "id": "1492",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+                            "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+                            "questionFrontendId": "1466",
+                            "paidOnly": false,
+                            "id": "1576",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "all-paths-from-source-to-target",
+                            "title": "All Paths From Source to Target",
+                            "questionFrontendId": "797",
+                            "paidOnly": false,
+                            "id": "813",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "backtracking",
+                                    "name": "Backtracking"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "critical-connections-in-a-network",
+                            "title": "Critical Connections in a Network",
+                            "questionFrontendId": "1192",
+                            "paidOnly": false,
+                            "id": "1300",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "biconnected-component",
+                                    "name": "Biconnected Component"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-106-ggaq",
+                    "name": "BFS",
+                    "premiumOnly": false,
+                    "questionNum": 9,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "nearest-exit-from-entrance-in-maze",
+                            "title": "Nearest Exit from Entrance in Maze",
+                            "questionFrontendId": "1926",
+                            "paidOnly": false,
+                            "id": "2038",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "shortest-bridge",
+                            "title": "Shortest Bridge",
+                            "questionFrontendId": "934",
+                            "paidOnly": false,
+                            "id": "971",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-genetic-mutation",
+                            "title": "Minimum Genetic Mutation",
+                            "questionFrontendId": "433",
+                            "paidOnly": false,
+                            "id": "433",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "word-ladder",
+                            "title": "Word Ladder",
+                            "questionFrontendId": "127",
+                            "paidOnly": false,
+                            "id": "127",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "jump-game-iii",
+                            "title": "Jump Game III",
+                            "questionFrontendId": "1306",
+                            "paidOnly": false,
+                            "id": "1428",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "01-matrix",
+                            "title": "01 Matrix",
+                            "questionFrontendId": "542",
+                            "paidOnly": false,
+                            "id": "542",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "shortest-path-in-binary-matrix",
+                            "title": "Shortest Path in Binary Matrix",
+                            "questionFrontendId": "1091",
+                            "paidOnly": false,
+                            "id": "1171",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "all-nodes-distance-k-in-binary-tree",
+                            "title": "All Nodes Distance K in Binary Tree",
+                            "questionFrontendId": "863",
+                            "paidOnly": false,
+                            "id": "893",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "binary-tree",
+                                    "name": "Binary Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "shortest-path-to-get-all-keys",
+                            "title": "Shortest Path to Get All Keys",
+                            "questionFrontendId": "864",
+                            "paidOnly": false,
+                            "id": "895",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "bit-manipulation",
+                                    "name": "Bit Manipulation"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-107-skt1",
+                    "name": "Matrix Graphs",
+                    "premiumOnly": false,
+                    "questionNum": 5,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-islands",
+                            "title": "Number of Islands",
+                            "questionFrontendId": "200",
+                            "paidOnly": false,
+                            "id": "200",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-enclaves",
+                            "title": "Number of Enclaves",
+                            "questionFrontendId": "1020",
+                            "paidOnly": false,
+                            "id": "1073",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-closed-islands",
+                            "title": "Number of Closed Islands",
+                            "questionFrontendId": "1254",
+                            "paidOnly": false,
+                            "id": "1380",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "max-area-of-island",
+                            "title": "Max Area of Island",
+                            "questionFrontendId": "695",
+                            "paidOnly": false,
+                            "id": "695",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "pacific-atlantic-water-flow",
+                            "title": "Pacific Atlantic Water Flow",
+                            "questionFrontendId": "417",
+                            "paidOnly": false,
+                            "id": "417",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-108-e5x3",
+                    "name": "Graph Theory",
+                    "premiumOnly": false,
+                    "questionNum": 5,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-the-town-judge",
+                            "title": "Find the Town Judge",
+                            "questionFrontendId": "997",
+                            "paidOnly": false,
+                            "id": "1039",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+                            "title": "Minimum Number of Vertices to Reach All Nodes",
+                            "questionFrontendId": "1557",
+                            "paidOnly": false,
+                            "id": "1661",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "maximal-network-rank",
+                            "title": "Maximal Network Rank",
+                            "questionFrontendId": "1615",
+                            "paidOnly": false,
+                            "id": "1738",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "is-graph-bipartite",
+                            "title": "Is Graph Bipartite?",
+                            "questionFrontendId": "785",
+                            "paidOnly": false,
+                            "id": "801",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "graph-valid-tree",
+                            "title": "Graph Valid Tree",
+                            "questionFrontendId": "261",
+                            "paidOnly": true,
+                            "id": "261",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-109-gob1",
+                    "name": "Union Find / DSU",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "accounts-merge",
+                            "title": "Accounts Merge",
+                            "questionFrontendId": "721",
+                            "paidOnly": false,
+                            "id": "721",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "satisfiability-of-equality-equations",
+                            "title": "Satisfiability of Equality Equations",
+                            "questionFrontendId": "990",
+                            "paidOnly": false,
+                            "id": "1032",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "lexicographically-smallest-equivalent-string",
+                            "title": "Lexicographically Smallest Equivalent String",
+                            "questionFrontendId": "1061",
+                            "paidOnly": false,
+                            "id": "1058",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "similar-string-groups",
+                            "title": "Similar String Groups",
+                            "questionFrontendId": "839",
+                            "paidOnly": false,
+                            "id": "869",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "union-find",
+                                    "name": "Union Find"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-110-xmw7",
+                    "name": "Topological Sort",
+                    "premiumOnly": false,
+                    "questionNum": 5,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "course-schedule",
+                            "title": "Course Schedule",
+                            "questionFrontendId": "207",
+                            "paidOnly": false,
+                            "id": "207",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "course-schedule-ii",
+                            "title": "Course Schedule II",
+                            "questionFrontendId": "210",
+                            "paidOnly": false,
+                            "id": "210",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "alien-dictionary",
+                            "title": "Alien Dictionary",
+                            "questionFrontendId": "269",
+                            "paidOnly": true,
+                            "id": "269",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "sort-items-by-groups-respecting-dependencies",
+                            "title": "Sort Items by Groups Respecting Dependencies",
+                            "questionFrontendId": "1203",
+                            "paidOnly": false,
+                            "id": "1309",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "largest-color-value-in-a-directed-graph",
+                            "title": "Largest Color Value in a Directed Graph",
+                            "questionFrontendId": "1857",
+                            "paidOnly": false,
+                            "id": "1986",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "graph",
+                                    "name": "Graph"
+                                },
+                                {
+                                    "slug": "topological-sort",
+                                    "name": "Topological Sort"
+                                },
+                                {
+                                    "slug": "memoization",
+                                    "name": "Memoization"
+                                },
+                                {
+                                    "slug": "counting",
+                                    "name": "Counting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "graph-theory-111-i7fd",
+                    "name": "Dijkstra's",
+                    "premiumOnly": true,
+                    "questionNum": 4,
+                    "questions": []
+                },
+                {
+                    "slug": "graph-theory-112-2ckf",
+                    "name": "Minimum Spanning Tree",
+                    "premiumOnly": true,
+                    "questionNum": 4,
+                    "questions": []
+                }
+            ]
+        }
+    }
+}

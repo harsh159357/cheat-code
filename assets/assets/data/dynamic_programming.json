@@ -1,0 +1,1229 @@
+{
+    "data": {
+        "studyPlanV2Detail": {
+            "slug": "dynamic-programming",
+            "name": "Dynamic Programming",
+            "highlight": "10 Essential DP Patterns",
+            "staticCoverPicture": "https://assets.leetcode.com/static_assets/others/Dynamic_Programming_static_cover_picture.png",
+            "colorPalette": "green",
+            "threeDimensionUrl": "https://prod.spline.design/WRpI8dhFYGx7Uv7s/scene.splinecode",
+            "description": "Beginner friendly\r\nCommon and essential DP patterns\r\nLearn DP in a recursive manner",
+            "premiumOnly": false,
+            "needShowTags": false,
+            "awardDescription": "Complete the study plan to win the badge!",
+            "defaultLanguage": null,
+            "award": {
+                "name": "Dynamic Programming",
+                "config": {
+                    "icon": "https://assets.leetcode.com/static_assets/others/Dynamic_Programming.png",
+                    "iconGif": "https://assets.leetcode.com/static_assets/others/Dynamic_Programming-.gif",
+                    "iconGifBackground": "https://assets.leetcode.com/static_assets/others/badge-background.png"
+                }
+            },
+            "relatedStudyPlans": [
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/dynamic-programming-grandmaster/cover",
+                    "highlight": "Master DP with 8 Advanced Patterns",
+                    "name": "Dynamic Programming Grandmaster",
+                    "slug": "dynamic-programming-grandmaster",
+                    "premiumOnly": true
+                }
+            ],
+            "planSubGroups": [
+                {
+                    "slug": "dynamic-programming-81-vlln",
+                    "name": "Fibonacci style",
+                    "premiumOnly": false,
+                    "questionNum": 6,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "climbing-stairs",
+                            "title": "Climbing Stairs",
+                            "questionFrontendId": "70",
+                            "paidOnly": false,
+                            "id": "70",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "memoization",
+                                    "name": "Memoization"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "fibonacci-number",
+                            "title": "Fibonacci Number",
+                            "questionFrontendId": "509",
+                            "paidOnly": false,
+                            "id": "1013",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "recursion",
+                                    "name": "Recursion"
+                                },
+                                {
+                                    "slug": "memoization",
+                                    "name": "Memoization"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "n-th-tribonacci-number",
+                            "title": "N-th Tribonacci Number",
+                            "questionFrontendId": "1137",
+                            "paidOnly": false,
+                            "id": "1236",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "memoization",
+                                    "name": "Memoization"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "min-cost-climbing-stairs",
+                            "title": "Min Cost Climbing Stairs",
+                            "questionFrontendId": "746",
+                            "paidOnly": false,
+                            "id": "747",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "house-robber",
+                            "title": "House Robber",
+                            "questionFrontendId": "198",
+                            "paidOnly": false,
+                            "id": "198",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "delete-and-earn",
+                            "title": "Delete and Earn",
+                            "questionFrontendId": "740",
+                            "paidOnly": false,
+                            "id": "740",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-82-zf2u",
+                    "name": "Matrix",
+                    "premiumOnly": false,
+                    "questionNum": 6,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "unique-paths",
+                            "title": "Unique Paths",
+                            "questionFrontendId": "62",
+                            "paidOnly": false,
+                            "id": "62",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "combinatorics",
+                                    "name": "Combinatorics"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-path-sum",
+                            "title": "Minimum Path Sum",
+                            "questionFrontendId": "64",
+                            "paidOnly": false,
+                            "id": "64",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "unique-paths-ii",
+                            "title": "Unique Paths II",
+                            "questionFrontendId": "63",
+                            "paidOnly": false,
+                            "id": "63",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "triangle",
+                            "title": "Triangle",
+                            "questionFrontendId": "120",
+                            "paidOnly": false,
+                            "id": "120",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-falling-path-sum",
+                            "title": "Minimum Falling Path Sum",
+                            "questionFrontendId": "931",
+                            "paidOnly": false,
+                            "id": "967",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "maximal-square",
+                            "title": "Maximal Square",
+                            "questionFrontendId": "221",
+                            "paidOnly": false,
+                            "id": "221",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-83-1tbs",
+                    "name": "On Strings",
+                    "premiumOnly": false,
+                    "questionNum": 6,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-palindromic-substring",
+                            "title": "Longest Palindromic Substring",
+                            "questionFrontendId": "5",
+                            "paidOnly": false,
+                            "id": "5",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "word-break",
+                            "title": "Word Break",
+                            "questionFrontendId": "139",
+                            "paidOnly": false,
+                            "id": "139",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "trie",
+                                    "name": "Trie"
+                                },
+                                {
+                                    "slug": "memoization",
+                                    "name": "Memoization"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-palindromic-subsequence",
+                            "title": "Longest Palindromic Subsequence",
+                            "questionFrontendId": "516",
+                            "paidOnly": false,
+                            "id": "516",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "edit-distance",
+                            "title": "Edit Distance",
+                            "questionFrontendId": "72",
+                            "paidOnly": false,
+                            "id": "72",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-ascii-delete-sum-for-two-strings",
+                            "title": "Minimum ASCII Delete Sum for Two Strings",
+                            "questionFrontendId": "712",
+                            "paidOnly": false,
+                            "id": "712",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "distinct-subsequences",
+                            "title": "Distinct Subsequences",
+                            "questionFrontendId": "115",
+                            "paidOnly": false,
+                            "id": "115",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-84-ss8w",
+                    "name": "Longest Increasing Subsequence",
+                    "premiumOnly": false,
+                    "questionNum": 7,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-increasing-subsequence",
+                            "title": "Longest Increasing Subsequence",
+                            "questionFrontendId": "300",
+                            "paidOnly": false,
+                            "id": "300",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-longest-increasing-subsequence",
+                            "title": "Number of Longest Increasing Subsequence",
+                            "questionFrontendId": "673",
+                            "paidOnly": false,
+                            "id": "673",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "binary-indexed-tree",
+                                    "name": "Binary Indexed Tree"
+                                },
+                                {
+                                    "slug": "segment-tree",
+                                    "name": "Segment Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "maximum-length-of-pair-chain",
+                            "title": "Maximum Length of Pair Chain",
+                            "questionFrontendId": "646",
+                            "paidOnly": false,
+                            "id": "646",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "greedy",
+                                    "name": "Greedy"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-arithmetic-subsequence-of-given-difference",
+                            "title": "Longest Arithmetic Subsequence of Given Difference",
+                            "questionFrontendId": "1218",
+                            "paidOnly": false,
+                            "id": "1330",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-arithmetic-subsequence",
+                            "title": "Longest Arithmetic Subsequence",
+                            "questionFrontendId": "1027",
+                            "paidOnly": false,
+                            "id": "1087",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "russian-doll-envelopes",
+                            "title": "Russian Doll Envelopes",
+                            "questionFrontendId": "354",
+                            "paidOnly": false,
+                            "id": "354",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-the-longest-valid-obstacle-course-at-each-position",
+                            "title": "Find the Longest Valid Obstacle Course at Each Position",
+                            "questionFrontendId": "1964",
+                            "paidOnly": false,
+                            "id": "2096",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "binary-indexed-tree",
+                                    "name": "Binary Indexed Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-85-lgwh",
+                    "name": "Longest Common Subsequence",
+                    "premiumOnly": false,
+                    "questionNum": 3,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-common-subsequence",
+                            "title": "Longest Common Subsequence",
+                            "questionFrontendId": "1143",
+                            "paidOnly": false,
+                            "id": "1250",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "uncrossed-lines",
+                            "title": "Uncrossed Lines",
+                            "questionFrontendId": "1035",
+                            "paidOnly": false,
+                            "id": "1105",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+                            "title": "Minimum Insertion Steps to Make a String Palindrome",
+                            "questionFrontendId": "1312",
+                            "paidOnly": false,
+                            "id": "1437",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-86-4fuc",
+                    "name": "Best Time to Buy & Sell Stock / State Machine",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+                            "title": "Best Time to Buy and Sell Stock with Cooldown",
+                            "questionFrontendId": "309",
+                            "paidOnly": false,
+                            "id": "309",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+                            "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+                            "questionFrontendId": "714",
+                            "paidOnly": false,
+                            "id": "714",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "greedy",
+                                    "name": "Greedy"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+                            "title": "Best Time to Buy and Sell Stock III",
+                            "questionFrontendId": "123",
+                            "paidOnly": false,
+                            "id": "123",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+                            "title": "Best Time to Buy and Sell Stock IV",
+                            "questionFrontendId": "188",
+                            "paidOnly": false,
+                            "id": "188",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-87-bi3l",
+                    "name": "On Trees",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "unique-binary-search-trees",
+                            "title": "Unique Binary Search Trees",
+                            "questionFrontendId": "96",
+                            "paidOnly": false,
+                            "id": "96",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "binary-search-tree",
+                                    "name": "Binary Search Tree"
+                                },
+                                {
+                                    "slug": "binary-tree",
+                                    "name": "Binary Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "unique-binary-search-trees-ii",
+                            "title": "Unique Binary Search Trees II",
+                            "questionFrontendId": "95",
+                            "paidOnly": false,
+                            "id": "95",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "backtracking",
+                                    "name": "Backtracking"
+                                },
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "binary-search-tree",
+                                    "name": "Binary Search Tree"
+                                },
+                                {
+                                    "slug": "binary-tree",
+                                    "name": "Binary Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "house-robber-iii",
+                            "title": "House Robber III",
+                            "questionFrontendId": "337",
+                            "paidOnly": false,
+                            "id": "337",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "binary-tree",
+                                    "name": "Binary Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "binary-tree-maximum-path-sum",
+                            "title": "Binary Tree Maximum Path Sum",
+                            "questionFrontendId": "124",
+                            "paidOnly": false,
+                            "id": "124",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "tree",
+                                    "name": "Tree"
+                                },
+                                {
+                                    "slug": "depth-first-search",
+                                    "name": "Depth-First Search"
+                                },
+                                {
+                                    "slug": "binary-tree",
+                                    "name": "Binary Tree"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-88-xk2i",
+                    "name": "Knapsack",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "perfect-squares",
+                            "title": "Perfect Squares",
+                            "questionFrontendId": "279",
+                            "paidOnly": false,
+                            "id": "279",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "coin-change-ii",
+                            "title": "Coin Change II",
+                            "questionFrontendId": "518",
+                            "paidOnly": false,
+                            "id": "518",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "combination-sum-iv",
+                            "title": "Combination Sum IV",
+                            "questionFrontendId": "377",
+                            "paidOnly": false,
+                            "id": "377",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "ones-and-zeroes",
+                            "title": "Ones and Zeroes",
+                            "questionFrontendId": "474",
+                            "paidOnly": false,
+                            "id": "474",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-89-blek",
+                    "name": "General 1D",
+                    "premiumOnly": false,
+                    "questionNum": 6,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "solving-questions-with-brainpower",
+                            "title": "Solving Questions With Brainpower",
+                            "questionFrontendId": "2140",
+                            "paidOnly": false,
+                            "id": "2262",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "coin-change",
+                            "title": "Coin Change",
+                            "questionFrontendId": "322",
+                            "paidOnly": false,
+                            "id": "322",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "breadth-first-search",
+                                    "name": "Breadth-First Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "count-ways-to-build-good-strings",
+                            "title": "Count Ways To Build Good Strings",
+                            "questionFrontendId": "2466",
+                            "paidOnly": false,
+                            "id": "2562",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "decode-ways",
+                            "title": "Decode Ways",
+                            "questionFrontendId": "91",
+                            "paidOnly": false,
+                            "id": "91",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "minimum-cost-for-tickets",
+                            "title": "Minimum Cost For Tickets",
+                            "questionFrontendId": "983",
+                            "paidOnly": false,
+                            "id": "1025",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "domino-and-tromino-tiling",
+                            "title": "Domino and Tromino Tiling",
+                            "questionFrontendId": "790",
+                            "paidOnly": false,
+                            "id": "806",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "dynamic-programming-90-r3de",
+                    "name": "General Multidimensional",
+                    "premiumOnly": true,
+                    "questionNum": 4,
+                    "questions": []
+                }
+            ]
+        }
+    }
+}

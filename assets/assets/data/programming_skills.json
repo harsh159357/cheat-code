@@ -1,0 +1,872 @@
+{
+    "data": {
+        "studyPlanV2Detail": {
+            "slug": "programming-skills",
+            "name": "Programming Skills",
+            "highlight": "Excel Implementation Skills in 50 Qs",
+            "staticCoverPicture": "https://assets.leetcode.com/static_assets/others/Programming_Skillsstatic_cover_picture.png",
+            "colorPalette": "purple",
+            "threeDimensionUrl": "https://prod.spline.design/SP91Vc5im61VCHCo/scene.splinecode",
+            "description": "Improve fluency in coding language\r\nImprove coding implementation skillsvPractice converting ideas into codes",
+            "premiumOnly": false,
+            "needShowTags": false,
+            "awardDescription": "Complete the study plan to win the badge!",
+            "defaultLanguage": null,
+            "award": {
+                "name": "Programming Skills",
+                "config": {
+                    "icon": "https://assets.leetcode.com/static_assets/others/Programming_Skills.png",
+                    "iconGif": "https://assets.leetcode.com/static_assets/others/Programming_Skills.gif",
+                    "iconGifBackground": "https://assets.leetcode.com/static_assets/others/badge-background.png"
+                }
+            },
+            "relatedStudyPlans": [
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/leetcode-75/cover",
+                    "highlight": "Ace Coding Interview with 75 Qs",
+                    "name": "LeetCode 75",
+                    "slug": "leetcode-75",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/top-100-liked/cover",
+                    "highlight": "100 Best Rated Problems",
+                    "name": "Top 100 Liked",
+                    "slug": "top-100-liked",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/premium-algo-100/cover",
+                    "highlight": "LeetCode Staff Pick",
+                    "name": "Premium Algo 100",
+                    "slug": "premium-algo-100",
+                    "premiumOnly": true
+                }
+            ],
+            "planSubGroups": [
+                {
+                    "slug": "programming-skills-99-cqq6",
+                    "name": "Basic Implementation",
+                    "premiumOnly": false,
+                    "questionNum": 11,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "merge-strings-alternately",
+                            "title": "Merge Strings Alternately",
+                            "questionFrontendId": "1768",
+                            "paidOnly": false,
+                            "id": "1894",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-the-difference",
+                            "title": "Find the Difference",
+                            "questionFrontendId": "389",
+                            "paidOnly": false,
+                            "id": "389",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "bit-manipulation",
+                                    "name": "Bit Manipulation"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+                            "title": "Find the Index of the First Occurrence in a String",
+                            "questionFrontendId": "28",
+                            "paidOnly": false,
+                            "id": "28",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "string-matching",
+                                    "name": "String Matching"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "valid-anagram",
+                            "title": "Valid Anagram",
+                            "questionFrontendId": "242",
+                            "paidOnly": false,
+                            "id": "242",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "repeated-substring-pattern",
+                            "title": "Repeated Substring Pattern",
+                            "questionFrontendId": "459",
+                            "paidOnly": false,
+                            "id": "459",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "string-matching",
+                                    "name": "String Matching"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "move-zeroes",
+                            "title": "Move Zeroes",
+                            "questionFrontendId": "283",
+                            "paidOnly": false,
+                            "id": "283",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "plus-one",
+                            "title": "Plus One",
+                            "questionFrontendId": "66",
+                            "paidOnly": false,
+                            "id": "66",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "sign-of-the-product-of-an-array",
+                            "title": "Sign of the Product of an Array",
+                            "questionFrontendId": "1822",
+                            "paidOnly": false,
+                            "id": "1950",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "can-make-arithmetic-progression-from-sequence",
+                            "title": "Can Make Arithmetic Progression From Sequence",
+                            "questionFrontendId": "1502",
+                            "paidOnly": false,
+                            "id": "1626",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "monotonic-array",
+                            "title": "Monotonic Array",
+                            "questionFrontendId": "896",
+                            "paidOnly": false,
+                            "id": "932",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "roman-to-integer",
+                            "title": "Roman to Integer",
+                            "questionFrontendId": "13",
+                            "paidOnly": false,
+                            "id": "13",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-100-1wej",
+                    "name": "Built-In Functions",
+                    "premiumOnly": false,
+                    "questionNum": 2,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "length-of-last-word",
+                            "title": "Length of Last Word",
+                            "questionFrontendId": "58",
+                            "paidOnly": false,
+                            "id": "58",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "to-lower-case",
+                            "title": "To Lower Case",
+                            "questionFrontendId": "709",
+                            "paidOnly": false,
+                            "id": "742",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-101-wfpx",
+                    "name": "Simulation",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "baseball-game",
+                            "title": "Baseball Game",
+                            "questionFrontendId": "682",
+                            "paidOnly": false,
+                            "id": "682",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "stack",
+                                    "name": "Stack"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "robot-return-to-origin",
+                            "title": "Robot Return to Origin",
+                            "questionFrontendId": "657",
+                            "paidOnly": false,
+                            "id": "657",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-winner-on-a-tic-tac-toe-game",
+                            "title": "Find Winner on a Tic Tac Toe Game",
+                            "questionFrontendId": "1275",
+                            "paidOnly": false,
+                            "id": "1400",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "robot-bounded-in-circle",
+                            "title": "Robot Bounded In Circle",
+                            "questionFrontendId": "1041",
+                            "paidOnly": false,
+                            "id": "1119",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-102-27ta",
+                    "name": "Matrix",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "richest-customer-wealth",
+                            "title": "Richest Customer Wealth",
+                            "questionFrontendId": "1672",
+                            "paidOnly": false,
+                            "id": "1791",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "matrix-diagonal-sum",
+                            "title": "Matrix Diagonal Sum",
+                            "questionFrontendId": "1572",
+                            "paidOnly": false,
+                            "id": "1677",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "spiral-matrix",
+                            "title": "Spiral Matrix",
+                            "questionFrontendId": "54",
+                            "paidOnly": false,
+                            "id": "54",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "set-matrix-zeroes",
+                            "title": "Set Matrix Zeroes",
+                            "questionFrontendId": "73",
+                            "paidOnly": false,
+                            "id": "73",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-103-2w7s",
+                    "name": "Math",
+                    "premiumOnly": false,
+                    "questionNum": 8,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "count-odd-numbers-in-an-interval-range",
+                            "title": "Count Odd Numbers in an Interval Range",
+                            "questionFrontendId": "1523",
+                            "paidOnly": false,
+                            "id": "1630",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
+                            "title": "Average Salary Excluding the Minimum and Maximum Salary",
+                            "questionFrontendId": "1491",
+                            "paidOnly": false,
+                            "id": "1584",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "lemonade-change",
+                            "title": "Lemonade Change",
+                            "questionFrontendId": "860",
+                            "paidOnly": false,
+                            "id": "890",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "greedy",
+                                    "name": "Greedy"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "largest-perimeter-triangle",
+                            "title": "Largest Perimeter Triangle",
+                            "questionFrontendId": "976",
+                            "paidOnly": false,
+                            "id": "1018",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "greedy",
+                                    "name": "Greedy"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "check-if-it-is-a-straight-line",
+                            "title": "Check If It Is a Straight Line",
+                            "questionFrontendId": "1232",
+                            "paidOnly": false,
+                            "id": "1349",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "geometry",
+                                    "name": "Geometry"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "add-binary",
+                            "title": "Add Binary",
+                            "questionFrontendId": "67",
+                            "paidOnly": false,
+                            "id": "67",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "bit-manipulation",
+                                    "name": "Bit Manipulation"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "multiply-strings",
+                            "title": "Multiply Strings",
+                            "questionFrontendId": "43",
+                            "paidOnly": false,
+                            "id": "43",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "simulation",
+                                    "name": "Simulation"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "powx-n",
+                            "title": "Pow(x, n)",
+                            "questionFrontendId": "50",
+                            "paidOnly": false,
+                            "id": "50",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "recursion",
+                                    "name": "Recursion"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-104-7t17",
+                    "name": "Linked List",
+                    "premiumOnly": false,
+                    "questionNum": 4,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "merge-two-sorted-lists",
+                            "title": "Merge Two Sorted Lists",
+                            "questionFrontendId": "21",
+                            "paidOnly": false,
+                            "id": "21",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "linked-list",
+                                    "name": "Linked List"
+                                },
+                                {
+                                    "slug": "recursion",
+                                    "name": "Recursion"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "reverse-linked-list",
+                            "title": "Reverse Linked List",
+                            "questionFrontendId": "206",
+                            "paidOnly": false,
+                            "id": "206",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "linked-list",
+                                    "name": "Linked List"
+                                },
+                                {
+                                    "slug": "recursion",
+                                    "name": "Recursion"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "add-two-numbers",
+                            "title": "Add Two Numbers",
+                            "questionFrontendId": "2",
+                            "paidOnly": false,
+                            "id": "2",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "linked-list",
+                                    "name": "Linked List"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "recursion",
+                                    "name": "Recursion"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "add-two-numbers-ii",
+                            "title": "Add Two Numbers II",
+                            "questionFrontendId": "445",
+                            "paidOnly": false,
+                            "id": "445",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "linked-list",
+                                    "name": "Linked List"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "stack",
+                                    "name": "Stack"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "programming-skills-135-vo3w",
+                    "name": "Binary Tree",
+                    "premiumOnly": true,
+                    "questionNum": 4,
+                    "questions": []
+                },
+                {
+                    "slug": "programming-skills-136-0np8",
+                    "name": "Design",
+                    "premiumOnly": true,
+                    "questionNum": 6,
+                    "questions": []
+                },
+                {
+                    "slug": "programming-skills-137-65de",
+                    "name": "Tricky Implementation",
+                    "premiumOnly": true,
+                    "questionNum": 6,
+                    "questions": []
+                }
+            ]
+        }
+    }
+}

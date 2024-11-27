@@ -1,0 +1,900 @@
+{
+    "data": {
+        "studyPlanV2Detail": {
+            "slug": "binary-search",
+            "name": "Binary Search",
+            "highlight": "8 Patterns, 42 Qs = Master BS",
+            "staticCoverPicture": "https://assets.leetcode.com/static_assets/others/Binary_Search_static_cover_picture.png",
+            "colorPalette": "purple",
+            "threeDimensionUrl": "https://prod.spline.design/CPzly83aE6qJ1C7M/scene.splinecode",
+            "description": "8 common binary search patterns 42 classic binary search problems Conquer Binary Search in 1 month",
+            "premiumOnly": false,
+            "needShowTags": false,
+            "awardDescription": "Complete the study plan to win the badge!",
+            "defaultLanguage": null,
+            "award": {
+                "name": "Binary Search",
+                "config": {
+                    "icon": "https://assets.leetcode.com/static_assets/others/Binary_Search.png",
+                    "iconGif": "https://assets.leetcode.com/static_assets/others/Binary_Search.gif",
+                    "iconGifBackground": "https://assets.leetcode.com/static_assets/others/badge-background.png"
+                }
+            },
+            "relatedStudyPlans": [
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/leetcode-75/cover",
+                    "highlight": "Ace Coding Interview with 75 Qs",
+                    "name": "LeetCode 75",
+                    "slug": "leetcode-75",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/top-100-liked/cover",
+                    "highlight": "100 Best Rated Problems",
+                    "name": "Top 100 Liked",
+                    "slug": "top-100-liked",
+                    "premiumOnly": false
+                },
+                {
+                    "cover": "https://assets.leetcode.com/study_plan_v2/premium-algo-100/cover",
+                    "highlight": "LeetCode Staff Pick",
+                    "name": "Premium Algo 100",
+                    "slug": "premium-algo-100",
+                    "premiumOnly": true
+                }
+            ],
+            "planSubGroups": [
+                {
+                    "slug": "binary-search-113-vwz9",
+                    "name": "Search In Array",
+                    "premiumOnly": false,
+                    "questionNum": 8,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "binary-search",
+                            "title": "Binary Search",
+                            "questionFrontendId": "704",
+                            "paidOnly": false,
+                            "id": "792",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "search-insert-position",
+                            "title": "Search Insert Position",
+                            "questionFrontendId": "35",
+                            "paidOnly": false,
+                            "id": "35",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-smallest-letter-greater-than-target",
+                            "title": "Find Smallest Letter Greater Than Target",
+                            "questionFrontendId": "744",
+                            "paidOnly": false,
+                            "id": "745",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+                            "title": "Count Negative Numbers in a Sorted Matrix",
+                            "questionFrontendId": "1351",
+                            "paidOnly": false,
+                            "id": "1476",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+                            "title": "Find First and Last Position of Element in Sorted Array",
+                            "questionFrontendId": "34",
+                            "paidOnly": false,
+                            "id": "34",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-right-interval",
+                            "title": "Find Right Interval",
+                            "questionFrontendId": "436",
+                            "paidOnly": false,
+                            "id": "436",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "time-based-key-value-store",
+                            "title": "Time Based Key-Value Store",
+                            "questionFrontendId": "981",
+                            "paidOnly": false,
+                            "id": "1023",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "string",
+                                    "name": "String"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "design",
+                                    "name": "Design"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "snapshot-array",
+                            "title": "Snapshot Array",
+                            "questionFrontendId": "1146",
+                            "paidOnly": false,
+                            "id": "1249",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "hash-table",
+                                    "name": "Hash Table"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "design",
+                                    "name": "Design"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-114-p5m8",
+                    "name": "Rotated Array",
+                    "premiumOnly": false,
+                    "questionNum": 3,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "search-in-rotated-sorted-array",
+                            "title": "Search in Rotated Sorted Array",
+                            "questionFrontendId": "33",
+                            "paidOnly": false,
+                            "id": "33",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-minimum-in-rotated-sorted-array",
+                            "title": "Find Minimum in Rotated Sorted Array",
+                            "questionFrontendId": "153",
+                            "paidOnly": false,
+                            "id": "153",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+                            "title": "Find Minimum in Rotated Sorted Array II",
+                            "questionFrontendId": "154",
+                            "paidOnly": false,
+                            "id": "154",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-115-cb76",
+                    "name": "Standard Search",
+                    "premiumOnly": false,
+                    "questionNum": 5,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "guess-number-higher-or-lower",
+                            "title": "Guess Number Higher or Lower",
+                            "questionFrontendId": "374",
+                            "paidOnly": false,
+                            "id": "374",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "interactive",
+                                    "name": "Interactive"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "first-bad-version",
+                            "title": "First Bad Version",
+                            "questionFrontendId": "278",
+                            "paidOnly": false,
+                            "id": "278",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "interactive",
+                                    "name": "Interactive"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "search-a-2d-matrix",
+                            "title": "Search a 2D Matrix",
+                            "questionFrontendId": "74",
+                            "paidOnly": false,
+                            "id": "74",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "matrix",
+                                    "name": "Matrix"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+                            "title": "Search in a Sorted Array of Unknown Size",
+                            "questionFrontendId": "702",
+                            "paidOnly": true,
+                            "id": "786",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "interactive",
+                                    "name": "Interactive"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-the-index-of-the-large-integer",
+                            "title": "Find the Index of the Large Integer",
+                            "questionFrontendId": "1533",
+                            "paidOnly": true,
+                            "id": "1672",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "interactive",
+                                    "name": "Interactive"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-116-typ3",
+                    "name": "Math",
+                    "premiumOnly": false,
+                    "questionNum": 3,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "valid-perfect-square",
+                            "title": "Valid Perfect Square",
+                            "questionFrontendId": "367",
+                            "paidOnly": false,
+                            "id": "367",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "sqrtx",
+                            "title": "Sqrt(x)",
+                            "questionFrontendId": "69",
+                            "paidOnly": false,
+                            "id": "69",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "arranging-coins",
+                            "title": "Arranging Coins",
+                            "questionFrontendId": "441",
+                            "paidOnly": false,
+                            "id": "441",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-117-02xr",
+                    "name": "Tricky Invariant",
+                    "premiumOnly": false,
+                    "questionNum": 6,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "kth-missing-positive-number",
+                            "title": "Kth Missing Positive Number",
+                            "questionFrontendId": "1539",
+                            "paidOnly": false,
+                            "id": "1646",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "h-index-ii",
+                            "title": "H-Index II",
+                            "questionFrontendId": "275",
+                            "paidOnly": false,
+                            "id": "275",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "single-element-in-a-sorted-array",
+                            "title": "Single Element in a Sorted Array",
+                            "questionFrontendId": "540",
+                            "paidOnly": false,
+                            "id": "540",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "peak-index-in-a-mountain-array",
+                            "title": "Peak Index in a Mountain Array",
+                            "questionFrontendId": "852",
+                            "paidOnly": false,
+                            "id": "882",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "find-k-closest-elements",
+                            "title": "Find K Closest Elements",
+                            "questionFrontendId": "658",
+                            "paidOnly": false,
+                            "id": "658",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "sliding-window",
+                                    "name": "Sliding Window"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                },
+                                {
+                                    "slug": "heap-priority-queue",
+                                    "name": "Heap (Priority Queue)"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "median-of-two-sorted-arrays",
+                            "title": "Median of Two Sorted Arrays",
+                            "questionFrontendId": "4",
+                            "paidOnly": false,
+                            "id": "4",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "divide-and-conquer",
+                                    "name": "Divide and Conquer"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-118-s9fy",
+                    "name": "As A Tool",
+                    "premiumOnly": false,
+                    "questionNum": 7,
+                    "questions": [
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "two-sum-less-than-k",
+                            "title": "Two Sum Less Than K",
+                            "questionFrontendId": "1099",
+                            "paidOnly": true,
+                            "id": "1083",
+                            "difficulty": "EASY",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "valid-triangle-number",
+                            "title": "Valid Triangle Number",
+                            "questionFrontendId": "611",
+                            "paidOnly": false,
+                            "id": "611",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "greedy",
+                                    "name": "Greedy"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "successful-pairs-of-spells-and-potions",
+                            "title": "Successful Pairs of Spells and Potions",
+                            "questionFrontendId": "2300",
+                            "paidOnly": false,
+                            "id": "2392",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+                            "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+                            "questionFrontendId": "1498",
+                            "paidOnly": false,
+                            "id": "1621",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "two-pointers",
+                                    "name": "Two Pointers"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "random-pick-with-weight",
+                            "title": "Random Pick with Weight",
+                            "questionFrontendId": "528",
+                            "paidOnly": false,
+                            "id": "912",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "math",
+                                    "name": "Math"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "prefix-sum",
+                                    "name": "Prefix Sum"
+                                },
+                                {
+                                    "slug": "randomized",
+                                    "name": "Randomized"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "longest-increasing-subsequence",
+                            "title": "Longest Increasing Subsequence",
+                            "questionFrontendId": "300",
+                            "paidOnly": false,
+                            "id": "300",
+                            "difficulty": "MEDIUM",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                }
+                            ],
+                            "solutionInfo": null
+                        },
+                        {
+                            "translatedTitle": null,
+                            "titleSlug": "russian-doll-envelopes",
+                            "title": "Russian Doll Envelopes",
+                            "questionFrontendId": "354",
+                            "paidOnly": false,
+                            "id": "354",
+                            "difficulty": "HARD",
+                            "hasOfficialSolution": true,
+                            "topicTags": [
+                                {
+                                    "slug": "array",
+                                    "name": "Array"
+                                },
+                                {
+                                    "slug": "binary-search",
+                                    "name": "Binary Search"
+                                },
+                                {
+                                    "slug": "dynamic-programming",
+                                    "name": "Dynamic Programming"
+                                },
+                                {
+                                    "slug": "sorting",
+                                    "name": "Sorting"
+                                }
+                            ],
+                            "solutionInfo": null
+                        }
+                    ]
+                },
+                {
+                    "slug": "binary-search-119-7k2x",
+                    "name": "On Solution Space",
+                    "premiumOnly": true,
+                    "questionNum": 8,
+                    "questions": []
+                },
+                {
+                    "slug": "binary-search-120-pckb",
+                    "name": "With Dynamic Programming",
+                    "premiumOnly": true,
+                    "questionNum": 2,
+                    "questions": []
+                }
+            ]
+        }
+    }
+}
