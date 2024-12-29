@@ -235,7 +235,7 @@ public class Solution {
 import java.util.*;
 
 class Solution {
-    private static final int[][] DIRECTIONS = {{0, -1}, {0, 1}, {1, 0}, {-1, 0}};
+    private static final int[][] DIRECTIONS = { {0, -1}, {0, 1}, {1, 0}, {-1, 0}};
 
     private static class State {
         int x, y, steps, keys;
