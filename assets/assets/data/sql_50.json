@@ -1,0 +1,243 @@
+{
+    "data": {
+        "studyPlanV2Detail": {
+            "planSubGroups": [
+                {
+                    "slug": "top-sql-50-128-cxxp",
+                    "questions": [
+                        {
+                            "titleSlug": "recyclable-and-low-fat-products",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "find-customer-referee",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "big-countries",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "article-views-i",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "invalid-tweets",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-129-ggw5",
+                    "questions": [
+                        {
+                            "titleSlug": "replace-employee-id-with-the-unique-identifier",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "product-sales-analysis-i",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "rising-temperature",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "average-time-of-process-per-machine",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "employee-bonus",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "students-and-examinations",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "managers-with-at-least-5-direct-reports",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "confirmation-rate",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-130-9fkf",
+                    "questions": [
+                        {
+                            "titleSlug": "not-boring-movies",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "average-selling-price",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "project-employees-i",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "percentage-of-users-attended-a-contest",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "queries-quality-and-percentage",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "monthly-transactions-i",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "immediate-food-delivery-ii",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "game-play-analysis-iv",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-131-ouut",
+                    "questions": [
+                        {
+                            "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "user-activity-for-the-past-30-days-i",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "product-sales-analysis-iii",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "classes-more-than-5-students",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "find-followers-count",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "biggest-single-number",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "customers-who-bought-all-products",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-132-oc5p",
+                    "questions": [
+                        {
+                            "titleSlug": "the-number-of-employees-which-report-to-each-employee",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "primary-department-for-each-employee",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "triangle-judgement",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "consecutive-numbers",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "product-price-at-a-given-date",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "last-person-to-fit-in-the-bus",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "count-salary-categories",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-133-0stx",
+                    "questions": [
+                        {
+                            "titleSlug": "employees-whose-manager-left-the-company",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "exchange-seats",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "movie-rating",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "restaurant-growth",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "friend-requests-ii-who-has-the-most-friends",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "investments-in-2016",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "department-top-three-salaries",
+                            "status": "TO_DO"
+                        }
+                    ]
+                },
+                {
+                    "slug": "top-sql-50-134-jwwc",
+                    "questions": [
+                        {
+                            "titleSlug": "fix-names-in-a-table",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "patients-with-a-condition",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "delete-duplicate-emails",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "second-highest-salary",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "group-sold-products-by-the-date",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "list-the-products-ordered-in-a-period",
+                            "status": "TO_DO"
+                        },
+                        {
+                            "titleSlug": "find-users-with-valid-e-mails",
+                            "status": "TO_DO"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
